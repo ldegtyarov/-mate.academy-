@@ -5,7 +5,8 @@ switch (a) {
       alert('Not Enough');
       break;
    case 4:
-      alert('Yes, It is!');
+      alert('Yes
+       It is!');
       break;
    case 5:
 alert('Too many');
