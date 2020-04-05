@@ -11,5 +11,5 @@ switch (a) {
 alert('Too many');
 break;
 default:
-alert('There are no such values');
+
 }
